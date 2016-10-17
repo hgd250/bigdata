@@ -1,2 +1,2 @@
-# bigdata
+# bigdata study
 bigdata related study
